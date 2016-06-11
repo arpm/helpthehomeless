@@ -334,12 +334,17 @@ th:last-child,
 td:last-child {
   padding-right: 0; }
 
+.button-1 {
+  padding-right: 50px;
+  padding-left: 50px;
+}
 
 /* Spacing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 button,
 .button {
-  margin-bottom: 1rem; 
+  margin-bottom: 1rem;
+  width: 25%;
 }
 input,
 textarea,
