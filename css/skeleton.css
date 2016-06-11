@@ -230,8 +230,8 @@ input[type="button"].button-primary:focus {
 }
 
 #clothing {
-  border-color: #FF7F48;
-  background-color: #FF7F48;
+  border-color: #FF5312;
+  background-color: #FF5312;
   color: white;
 }
 
@@ -381,6 +381,10 @@ ul,
 ol,
 form {
   margin-bottom: 2.5rem; }
+
+.buttons {
+  width: 90%;
+}  
 
 
 /* Utilities
